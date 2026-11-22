@@ -1,0 +1,4 @@
+.env
+traces*.jsonl
+__pycache__/
+.llm_cache.json
